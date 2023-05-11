@@ -1,7 +1,7 @@
 import boto3
 
-aws_access_key_id = 'AKIASP2TPHJSQ3D6Y3QX'
-aws_secret_access_key = '/2DFnQq/gQwvNfQBJKSZjjhHYF88zsnBhqO1g7gX'
+aws_access_key_id = 'redacted'
+aws_secret_access_key = 'redacted'
 output = json
 region = us-east-2
 
